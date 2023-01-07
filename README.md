@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # NeuralAi-landing-page
 NeuralAi is dedicated to harnessing the power of artificial intelligence to solve some of the world's most pressing problems. From automating tedious tasks to improving decision-making, an organization committed to pushing the boundaries of what is possible with AI.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> f43dc2cb3f911fe9a7d59753f97660d4e0f65e6f
