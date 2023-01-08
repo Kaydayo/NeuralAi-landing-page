@@ -1,7 +1,8 @@
 import React from 'react'
 
 import { Brand, CTA, Navbar } from './components'
-import {Footer,Blog,Possibility, Features, Header, NeuralAi3} from './containers'
+import { Footer, Blog, Possibility, Features, Header, NeuralAi3 } from './containers'
+import './App.css'
 
 const App = () => {
   return (
