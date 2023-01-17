@@ -91,7 +91,7 @@
     margin: 1rem 0;
 }
 
-.gpt3__navbar-menu_container-links-sign{
+.gpt3__navbar-menu_container-links{
     display: none;
 }
 
@@ -117,14 +117,16 @@
     .gpt3__navbar{
        padding: 2rem;
     }
-    .gpt3__navbarsignu{
+    .gpt3__navbar-sign{
         display: none;
     }
     .gpt3__navbar-menu_container{
         top:20px;
     }
 
-    .gpt3__navbar-menu_container-links-sign{
+    .gpt3__navbar-menu_container-links{
         display: block;
+        color: #fff;
+        font-family: var(--font-family);
     }
 }

@@ -1,10 +1,10 @@
-import google from '../../assets/google'
-import slack from '../../assets/slack'
-import atlassian from '../../assets/atlassian'
-import dropbox from '../../assets/dropbox'
-import shopify from '../../assets/shopify'
+import google from '../../assets/google.png'
+import slack from '../../assets/slack.png'
+import atlassian from '../../assets/atlassian.png'
+import dropbox from '../../assets/dropbox.png'
+import shopify from '../../assets/shopify.png'
 
-export {
+export  {
     google,
     slack,
     atlassian,
